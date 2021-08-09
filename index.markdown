@@ -5,6 +5,9 @@
 layout: home
 ---
 
+<img src="files/photos/portrait_australia.JPG" alt="portrait" width="200" style="float:right" hspace="20"/>
+
+
 Hi! I'm Lachlan Lancaster and I am a fifth (final!) year [PhD student][puastro-gradpage] in the Department of Astrophysical Sciences at Princeton University. 
 
 # Contact
