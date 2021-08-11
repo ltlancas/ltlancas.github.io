@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am currently working on explanding this page with some short descriptions of some of my research projects. For now I have 
+I am currently working on expanding this page with some short descriptions of some of my research projects. For now I have 
 <a href="../files/Curriculum_Vitae.pdf">my CV</a> (last update August 9th, 2021), a list of my publications which can be found [here][my-ads-lib], and a short description of my path in academia.
 
 For those who prefer to search for me with an ORCiD, mine is 0000-0002-0041-4356
