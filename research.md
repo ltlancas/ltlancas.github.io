@@ -4,9 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am currently working on expanding this page with some short descriptions of some of my research projects. 
-
-A list of my publications can be found [here][my-ads-lib]. For those who prefer to search for me with an ORCiD, mine is 0000-0002-0041-4356
+A list of my publications can be found [here][my-ads-lib]. For those who prefer to search for me with an ORCiD, mine is [0000-0002-0041-4356][orcid].
 
 # Latest Posts
 
@@ -48,3 +46,4 @@ In 2019 I started my thesis work with [Dr. Eve Ostriker][eve], though I also wor
 [eve]: https://www.astro.princeton.edu/~eco/
 [cgk]: https://www.astro.princeton.edu/~cgkim/astral/index.html#
 [jgk]: https://jeonggyukim.github.io/page/about/
+[orcid]: https://orcid.org/my-orcid?orcid=0000-0002-0041-4356

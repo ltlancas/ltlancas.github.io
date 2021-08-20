@@ -29,7 +29,7 @@ I was invited on to [The Star Spot][starspot] Podacst hosted by Justin Trottier 
 
 ## ChuTalk at Churchill College, Cambridge
 
-This is a talk I gave to fellow graduate students at Churchill College in Cambridge, UK in February of 2017 while I was in a masters program there. The talk was aimed at trying to explain some of the common questions I heard from friends about "The Universe." I have learned a lot about communication since this talk but it's the only general-audience talk I have online, so I thought I would share.
+This is a talk I gave to fellow graduate students at Churchill College in Cambridge, UK in February of 2017 while I was in a masters program there. The talk was aimed at trying to explain some of the common questions I heard from friends about "The Universe."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYZxKs3oWLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
