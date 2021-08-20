@@ -8,6 +8,17 @@ I am currently working on expanding this page with some short descriptions of so
 
 A list of my publications can be found [here][my-ads-lib]. For those who prefer to search for me with an ORCiD, mine is 0000-0002-0041-4356
 
+# Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 # Academic Story
 
 I went to undergrad at Carnegie Mellon University, intending to double major in physics and philosophy, I eventually got too hooked on math and switched to physics and mathematics, specializing in astrophysics.
