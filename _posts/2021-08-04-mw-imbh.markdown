@@ -4,26 +4,16 @@ title:  "Wandering Black Holes in the Milky Way"
 date:   2021-08-04 16:09:30 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Working with [Dr. Jenny Greene][jenny] and a slew of other talented collaborators, we set out to try to find "wandering" Intermediate Mass Black Holes (IMBHs) that used to live at the center of dense star clusters that have since disrupted in the potential of our Milky Way Galaxy.  Past works had postulated that such wandering IMBHs would retain several stars in their gravitational influence, remaining tightly bound around them in what would appear to be an extremely dense star cluster.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+In [our work][imbh-paper] we set out to find these objects by looking for statistical over-densities of stars on the sky. The astrometric precision of the European Space Agency's (ESA) Gaia satellite allowed us to look for these over-densities on sub-arcsecond spatial scales. My main contribution to this work was dealing with the Gaia data (and supplemenetary data curated by [Dr. Sergey Koposov][skoposov]) and creating a statistical model for what counted as an over-density on the sky. Once we had a list of candidate IMBH star clusters, we used deep DECaLS to validate these candidates, since we would expect deeper data to reveal many more stars than the Gaia data if these were real star clusters.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Unfortunately, we were not able to find any IMBH star clusters, but we were able to place great limits on how many of them there are in the Milky Way.
 
-Jekyll also offers powerful support for code snippets:
+Our previous search for these objects as overly-bright, unresolved point sources in spectroscopic surveys actually resulted in our discovery of the Symbiotic Nova [CN Cha][cn-cha].
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[imbh-paper]: https://ui.adsabs.harvard.edu/abs/2021ApJ...917...17G/abstract
+[cn-cha]:     https://ui.adsabs.harvard.edu/abs/2020AJ....160..125L/abstract
+[jenny]:      https://crispygreene.wixsite.com/jenny
+[skoposov]:   https://www.roe.ac.uk/~skoposov/
