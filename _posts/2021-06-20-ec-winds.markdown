@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Efficiently Cooled Stellar Wind Bubbles"
+date:   2021-06-20 16:09:30 -0400
+categories: jekyll update
+---
+In the middle of April, 2021 I released the first two major works of my thesis outlining a new theory for the expansion of stellar wind bubbles from clusters of massive stars in dense, turbulent molecular clouds (the sorts of places where these massive stars form). They are now published in the Astrophysical Journal. You can find an abridged explanation of these papers in a [Twitter thread][twitter-thread] I wrote when I posted them.
+
+<img src="/files/photos/rendering.jpg" alt="sim-rendering" width="200" style="float:left" hspace="20"/>
+
+The [first paper][ec-winds1] laid out our theory of how radiative cooling at the interface between the wind bubble and the surrounding gas can be drastically enhanced by turbulent mixing and the larger scale fractal structure this mixing creates. In the [second paper][ec-winds2] we ran a large suite of three-dimensional (3D) hydrodynamic simulations to provide a validation and numerical investigation of the theory laid out in the first paper.
+
+
+
+[ec-winds1]: https://ui.adsabs.harvard.edu/abs/2021ApJ...914...89L/abstract
+[ec-winds2]: https://ui.adsabs.harvard.edu/abs/2021ApJ...914...90L/abstract
+[twitter-thread]: https://twitter.com/lachlancaster/status/1383955470734401544?s=20

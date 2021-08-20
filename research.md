@@ -4,10 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-I am currently working on expanding this page with some short descriptions of some of my research projects. For now I have 
-<a href="../files/Curriculum_Vitae.pdf">my CV</a> (last update August 9th, 2021), a list of my publications which can be found [here][my-ads-lib], and a short description of my path in academia.
+I am currently working on expanding this page with some short descriptions of some of my research projects. 
 
-For those who prefer to search for me with an ORCiD, mine is 0000-0002-0041-4356
+A list of my publications can be found [here][my-ads-lib]. For those who prefer to search for me with an ORCiD, mine is 0000-0002-0041-4356
 
 # Academic Story
 
@@ -21,7 +20,9 @@ Inspired by my undergrad research in Galactic Dynamics with [Dr. Matthew Walker]
 
 Since starting my PhD at Princeton in 2017 I have worked on a large variety of topics in Astrophysics. My work under [Dr. David Spergel][david] has caused me to travel very often to the [Center for Computational Astrophysics][cca] (CCA) whre I have also collaborated with many other researchers. I have also worked closely with [Dr. Jenny Greene][jenny] on observational projects related to Intermediate Mass Black Holes.
 
-In 2019 I started my thesis work with [Dr. Eve Ostriker][eve], though I also work closely with [Chang-Goo Kim][cgk] and [Jeong-Gyu Kim][jgk]. While my thesis was originally 
+In 2019 I started my thesis work with [Dr. Eve Ostriker][eve], though I also work closely with [Chang-Goo Kim][cgk] and [Jeong-Gyu Kim][jgk]. The main guiding goal of my thesis, and my planned future work, is to try to understand the magneto-hydrodynamic (MHD), stellar dynamic, and feedback processes involved in star formation in dense environments. I am particularly interested in the outstanding problem of Multiple Populations in Globular Star Clusters, and how feedback from forming stars can act to chemically enrich gas that subsequently forms more stars, creating chemically distinct but co-natal populations. In order to tackle this larger goal, I have found that we must first form a much better understanding of how winds from massive stars interact with the dense environments in which these stars form. The improved understanding of stellar wind feedback given by my thesis work has also allowed us to have a much better understanding of star-formation works in normal star forming environments (in our own Milky Way) as well as in forming Super Star Clusters (the closest we can get to an observable version of a forming Globular Cluster).
+
+
 
 [my-ads-lib]: https://ui.adsabs.harvard.edu/user/libraries/nkdAMXcpTvSel3KIqoxaQw
 [puastro-gradpage]: https://web.astro.princeton.edu/people/lachlan-lancaster
