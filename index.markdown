@@ -10,7 +10,9 @@ layout: home
 
 Hi! I'm Lachlan Lancaster and I am a fifth (final!) year [PhD student][puastro-gradpage] in the Department of Astrophysical Sciences at Princeton University. I have broad research interests but my work in recent years has focused on the regulation of star formation within the dense, molecular clouds where stars form. Specifically, my thesis has concentrated on the role that winds from massive stars play in this process.
 
-Some quick links: [list of my publications][my-ads-lib] on ADS and <a href="../files/Curriculum_Vitae.pdf">my CV</a> (last updated on August 9th, 2021).
+[See my publications][my-ads-lib]
+
+<a href="../files/Curriculum_Vitae.pdf">View my CV</a>
 
 
 
